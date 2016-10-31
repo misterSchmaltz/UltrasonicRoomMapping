@@ -60786,7 +60786,7 @@
         <entry key="pioneer" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -68319,7 +68319,7 @@
         <entry key="pyseqan" value="" />
         <entry key="pyseqfile" value="" />
         <entry key="pysequen" value="" />
-        <entry key="pyserial" value="" />
+        <entry key="pyserial" value="3.2.1" />
         <entry key="pyserial-asyncio" value="" />
         <entry key="pyserialize" value="" />
         <entry key="pyserializer" value="" />
@@ -76633,7 +76633,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="28.7.1" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
